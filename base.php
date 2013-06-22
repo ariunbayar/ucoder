@@ -22,5 +22,12 @@
 <div class="body-wrapper">
     <?php echo $content ?>
 </div>
+
+<div class="foot">
+    <div class="foot-wrapper" style="text-align: center;">
+        @2013
+    </div>
+</div>
+
 </body>
 </html>
