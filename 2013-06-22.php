@@ -65,6 +65,7 @@ snippet-ийн plugin суулгаж судлах болно. Мөн бид Ubun
 <h2>Оролцогчид</h2>
 <div class='participant'>
     <a href='http://gravatar.com/ariunbayarb'><img title="Ariunbayar" src='http://www.gravatar.com/avatar/f4b936729a896840c4b04752bcff4348'></a>
+    <a href='http://gravatar.com/unagaldai'><img title="Bulgaa" src='http://www.gravatar.com/avatar/d490b1fb90409853ec836dc02fb27961'></a>
     <a href='http://gravatar.com/erdenesukh'><img title="Eenee" src='http://www.gravatar.com/avatar/69693baf78a234b29db3337814a1b112'></a>
     <a href='http://gravatar.com/delger07'><img title="Deegii" src='http://www.gravatar.com/avatar/e808ee64a1e30ef9c6cf1254c6d6279b'></a>
     <a href='http://gravatar.com/mndh'><img title="Mandahaa" src='http://www.gravatar.com/avatar/7880499318000ff637a3d0ada9374df4'></a>
