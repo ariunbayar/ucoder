@@ -6,7 +6,7 @@
 Өглөө 10:00-с эхэлж 16:00-д дуусна.<br/>
 Энэ удаад бид <a href="http://www.spoj.com/ABRAMOV/problems/main/" target="_blank">spoj.com</a> 
 сайт дээрх бодлогуудыг бодохоос гадна <a href="http://www.vim.org/">vim editor</a> дээрх
-snippet-ийн plugin суулгаж судлах болно. Мөн бид Ubuntu Live Disk-ийг өөрсдийнхөөрөө хэрхэн хийж болохыг судлана.
+snippet-ийн plugin суулгаж судлах болно.
 
 <dl>
     <dt>10:00-10:30</dt>

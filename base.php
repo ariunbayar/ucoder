@@ -4,6 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>uCoder өдөрлөг</title>
 <link rel="shortcut icon" href="static/logo.jpg">
+<link href='http://fonts.googleapis.com/css?family=Roboto:400,900italic,700italic,900,700,500italic,500,400italic,300italic,300,100italic,100&subset=latin,cyrillic,latin-ext,vietnamese,greek,greek-ext,cyrillic-ext' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="static/main.css" type="text/css"/>
 <link rel="stylesheet" href="static/font-awesome/css/font-awesome.min.css">
 <!--[if IE 7]>
