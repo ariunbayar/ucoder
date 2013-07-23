@@ -15,8 +15,10 @@
 
 <div class="head-wrapper">
     <div class="logo">
-        <i class="icon-laptop"></i>
-        uCoder өдөрлөг
+        <a href="/">
+            <i class="icon-laptop"></i>
+            uCoder өдөрлөг
+        </a>
     </div>
 </div>
 
