@@ -5,17 +5,19 @@
 Манай компани нь 2012 оны 3 сараас эхлэн вэб сайт хөгжүүлэн ажиллаж байна. Одоогоор бид 3 програмистийн бүрэлдэхүүнтэй ажиллаж байна.<br/><br/>
 <table border="0" align="center">
     <tr align="center">
-        <td><a href='http://gravatar.com/ariunbayarb'><img title="Ариунбаяр" src='http://www.gravatar.com/avatar/f4b936729a896840c4b04752bcff4348'></a></td>
-        <td></td>
-        <td><a href='http://gravatar.com/unagaldai'><img title="Булгантамир" src='http://www.gravatar.com/avatar/d490b1fb90409853ec836dc02fb27961'></a></td>
-        <td></td>
-        <td><a href='http://gravatar.com/atulga'><img title="Алтантулга" src='http://www.gravatar.com/avatar/50e3e2b4f15d6912b241bd21d28c074a'></a></td>
+        <td width="220"><a href='http://gravatar.com/ariunbayarb'><img title="Ариунбаяр" src='http://www.gravatar.com/avatar/f4b936729a896840c4b04752bcff4348'></a></td>
+        <td width="220"><a href='http://gravatar.com/unagaldai'><img title="Булгантамир" src='http://www.gravatar.com/avatar/d490b1fb90409853ec836dc02fb27961'></a></td>
+        <td width="220"><a href='http://gravatar.com/atulga'><img title="Алтантулга" src='http://www.gravatar.com/avatar/50e3e2b4f15d6912b241bd21d28c074a'></a></td>
     </tr>
-    <tr>
+    <tr align="center">
+        <td>Ариунбаяр</td>
+        <td>Булгантамир</td>
+        <td>Алтантулга</td>
+    </tr>
+
+    <tr align="center">
         <td>Ахлах вэб програмист</td>
-        <td></td>
         <td>Вэб програмист</td>
-        <td></td>
         <td>Вэб програмист</td>
     </tr>
 </table>
