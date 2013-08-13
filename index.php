@@ -1,5 +1,4 @@
-<?php ob_start() ?>
-
+<?php ob_start(); ?>
 <ul>
     <li><a href="2013-06-22.php">uCoder өдөрлөг 2013 оны 6-р сарын 22</a></li>
     <li><a href="2013-07-06.php">uCoder өдөрлөг 2013 оны 7-р сарын 6</a></li>

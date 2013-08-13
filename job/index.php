@@ -1,10 +1,9 @@
-<?php require 'helpers.php' ?>
 <?php ob_start() ?>
 
 <h2>Байгууллагын танилцуулга</h2>
 
 Манай компани нь 2012 оны 3 сараас эхлэн вэб сайт хөгжүүлэн ажиллаж байна. Одоогоор бид 3 програмистийн бүрэлдэхүүнтэй ажиллаж байна.<br/><br/>
-<table border = "0" align="center">
+<table border="0" align="center">
     <tr align="center">
         <td><a href='http://gravatar.com/ariunbayarb'><img title="Ариунбаяр" src='http://www.gravatar.com/avatar/f4b936729a896840c4b04752bcff4348'></a></td>
         <td></td>
@@ -36,4 +35,4 @@
 <strong>Хаяг:</strong> Metromall-ийн хойд талд байрлах хорооллын 6-27 тоот Утас: 99437911
 
 <?php $content = ob_get_clean() ?>
-<?php require 'base.php' ?>
+<?php require '../base.php' ?>
